@@ -65,8 +65,6 @@ p.nft__info__blurb {
   color: var(--clr-cyan);
 }
 
-
-
 h1.nft__info__name,
 p.nft__info__blurb {
   margin-bottom: 1rem;
@@ -133,7 +131,7 @@ NFT Card Styles
 .nft__info__pricing {
   display: flex;
   justify-content: space-between;
-  padding-bottom: 1rem;
+  margin-bottom: 1rem;
 }
 
 .nft__info__pricing__eth,
@@ -141,6 +139,12 @@ NFT Card Styles
   display: flex;
   gap: 0.5rem;
   align-items: center;
+}
+
+@media (min-width: 30em) {
+  .nft__info__pricing {
+    margin-bottom: 1.25rem;
+  }
 }
 
 
