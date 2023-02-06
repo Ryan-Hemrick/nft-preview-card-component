@@ -28,7 +28,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 
 ### Links
-- Live Site URL: https://clever-gnome-9ac458.netlify.app
+- Live Site URL: https://coruscating-ganache-3cc0df.netlify.app
 
 
 ## My process
